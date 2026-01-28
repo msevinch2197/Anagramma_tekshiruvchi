@@ -16,6 +16,3 @@ Katta-kichik harflarni farqlamaydi
 
 Python 3 da yozilgan
 
-🚀 Ishga tushirish
-
-python anagramma.py
